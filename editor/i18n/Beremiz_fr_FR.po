@@ -805,7 +805,7 @@ msgstr "Inversion bit à bit"
 
 #: ../editors/Viewer.py:624 ../editors/Viewer.py:2442
 msgid "Block"
-msgstr "Block"
+msgstr "Bloc"
 
 #: ../dialogs/FBDBlockDialog.py:63
 msgid "Block Properties"
@@ -1619,7 +1619,7 @@ msgstr ""
 
 #: ../editors/Viewer.py:671
 msgid "Edit Block"
-msgstr "Editer le block"
+msgstr "Editer le bloc"
 
 #: ../dialogs/LDElementDialog.py:58
 msgid "Edit Coil Values"
@@ -1643,7 +1643,7 @@ msgstr "Editer une IHM WxWidgets à l'aide de WXGlade"
 
 #: ../dialogs/ActionBlockDialog.py:127
 msgid "Edit action block properties"
-msgstr "Editer les propriétés du block d'actions"
+msgstr "Editer les propriétés du bloc d'actions"
 
 #: ../dialogs/ArrayTypeDialog.py:47
 msgid "Edit array type properties"
@@ -2706,7 +2706,7 @@ msgstr ""
 #: ../PLCGenerator.py:841
 #, python-format
 msgid "No informations found for \"%s\" block"
-msgstr "Aucune information trouvée pour le block \"%s\""
+msgstr "Aucune information trouvée pour le bloc \"%s\""
 
 #: ../etherlab/EthercatCFileGenerator.py:224
 #, python-format
